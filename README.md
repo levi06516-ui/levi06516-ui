@@ -1,6 +1,6 @@
 # Hi there, I'm Jeremy! 👋
 
-**Software Engineer | Full-Stack Developer | Passionate about Scalable Systems & Architecture**
+**Software Engineering Student | Full-Stack Developer | Passionate about Scalable Systems & Architecture**
 
 ### 🚀 About Me
 I'm a software developer with hands-on experience building modern, scalable web/mobile applications and microservices architectures. I combine a strong engineering foundation with technical execution to craft maintainable and efficient software.
