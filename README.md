@@ -1,6 +1,6 @@
 # ¡Hola a todos, soy Jeremy! 👋
 
-**Ingeniero de Software | Desarrollador Full-Stack | Apasionado por los Sistemas Escalables y la Arquitectura Móvil/Web**
+**Estudiante de Ingeniería de Software | Desarrollador Full-Stack | Apasionado por los Sistemas Escalables y la Arquitectura Móvil/Web**
 
 ### 🚀 Sobre mí
 Soy un desarrollador de software con experiencia práctica en la creación de aplicaciones web, móviles y arquitecturas de microservicios modernas y escalables. Combino una sólida base metodológica y de ingeniería con la ejecución técnica para construir software mantenible y eficiente.
