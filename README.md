@@ -1,19 +1,19 @@
-# ¡Hola a todos, soy Jeremy! 👋
+# Hi there, I'm Jeremy! 👋
 
-**Estudiante de Ingeniería de Software | Desarrollador Full-Stack | Apasionado por los Sistemas Escalables y la Arquitectura Móvil/Web**
+**Software Engineer | Full-Stack Developer | Passionate about Scalable Systems & Architecture**
 
-### 🚀 Sobre mí
-Soy un desarrollador de software con experiencia práctica en la creación de aplicaciones web, móviles y arquitecturas de microservicios modernas y escalables. Combino una sólida base metodológica y de ingeniería con la ejecución técnica para construir software mantenible y eficiente.
+### 🚀 About Me
+I'm a software developer with hands-on experience building modern, scalable web/mobile applications and microservices architectures. I combine a strong engineering foundation with technical execution to craft maintainable and efficient software.
 
-- 👨‍💻 **Enfoque:** Python, C#, Java, TypeScript, React, .NET Core & Microservicios
-- 🚀 **Proyectos:** Sistemas bancarios, simuladores, bots/agentes con IA y arquitecturas distribuidas
-- 📦 **Experiencia:** Desarrollo Full-Stack, modelado de software, redes y metodologías ágiles
-- 🎯 **Meta:** Crear sistemas robustos que resuelvan problemas complejos y aporten valor real
-- 💬 **Enfoque:** Pensar en flujos, diseñar componentes escalables y priorizar la calidad del código
+- 👨‍💻 **Focus:** Python, C#, Java, TypeScript, React, .NET Core & Microservices
+- 🚀 **Projects:** Banking systems, simulators, AI agents & distributed architectures
+- 📦 **Background:** Full-Stack development, software modeling, networking & agile methodologies
+- 🎯 **Goal:** Build robust systems that solve complex problems and deliver real value
+- 💬 **Approach:** Think in flows, design scalable components & prioritize code quality
 
 ---
 
-### Lenguajes y Herramientas:
+### Languages & Tools:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -31,11 +31,11 @@ Soy un desarrollador de software con experiencia práctica en la creación de ap
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levi06516-ui&layout=compact&theme=tokyonight&hide_border=true&locale=es" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=levi06516-ui&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levi06516-ui&layout=compact&theme=tokyonight&hide_border=true&locale=en" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=levi06516-ui&show_icons=true&theme=tokyonight&hide_border=true&locale=en" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=levi06516-ui&repo=TowerDefense&theme=tokyonight&hide_border=true&locale=es" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=levi06516-ui&repo=OficiosYA&theme=tokyonight&hide_border=true&locale=es" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=levi06516-ui&repo=TowerDefense&theme=tokyonight&hide_border=true&locale=en" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=levi06516-ui&repo=OficiosYA&theme=tokyonight&hide_border=true&locale=en" width="48%" />
 </p>
